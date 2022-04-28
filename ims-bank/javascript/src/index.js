@@ -1,7 +1,7 @@
 import { StrictMode } from "react";
 import ReactDOM from "react-dom";
 
-import { Bank } from "./Bank";
+import { Bank } from "./components/Bank";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
